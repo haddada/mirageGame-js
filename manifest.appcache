@@ -1,0 +1,23 @@
+CACHE MANIFEST
+
+# version 16
+
+CACHE:
+scripts/game1.js
+scripts/soundjs/FlashPlugin.js
+scripts/soundjs/HTMLAudioPlugin.js
+scripts/soundjs/SoundJs.js
+scripts/swfobject.js
+http://code.createjs.com/preloadjs-0.1.0.min.js
+style/style.css
+audio/Explosion2.mp3
+
+image/backnight.png
+image/Mirage.png
+image/MirageEnemy.png
+image/bullet.png
+image/explosion.png
+image/play2.png
+image/gameOver.png
+
+index.html
